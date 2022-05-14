@@ -7,7 +7,7 @@ const DataSchema = mongoose.Schema({
     },
     Img: {
         type: String,
-        required: true
+        //required: true
     },
     Summary: {
         type: String,
